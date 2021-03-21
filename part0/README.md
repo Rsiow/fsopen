@@ -1,4 +1,5 @@
 Images of all exercise diagrams are pasted below
+Diagrams created at www.websequencediagrams.com
 
 <img src="images/Exercise%200.4.jpg" width=600>
 <br>
