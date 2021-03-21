@@ -1,0 +1,9 @@
+Exercise 0.6
+
+note over browser:
+Write new note and click "Save" button
+HTML displays the message in the browser 
+end note
+
+browser->server: HTTP POST hhttps://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: response Status Code 201 Created
